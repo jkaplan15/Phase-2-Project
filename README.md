@@ -1,4 +1,31 @@
-# Getting Started with Create React App
+# Number
+
+Were you lucky enough to secure the #1 overall pick in your 2023 Fantasy Football Draft? If so, there is minimal room for error, this pick will make or break your entire Fantasy Football Season. No pressure though, we got you covered!
+
+Core Features:
+
+-ability to hover over each potential selection and see pictures of each players, stats from last season and links to export analysis
+-functionality to add a new player who is not currently on the list
+-functionality to search and filter through the list of players
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -67,4 +94,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->

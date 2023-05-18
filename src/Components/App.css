@@ -3,10 +3,19 @@
 }
 
 
-.background {
+/* .background {
   background-image: url("https://www.shutterstock.com/image-photo/stadium-lights-smoke-260nw-398981257.jpg");
   background-size: cover;
   min-height: 90vh;
+} */
+
+#background-video {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  z-index: -100;
 }
 
 .card-back {
@@ -175,7 +184,7 @@ header h1 {
 }
 
 .search-background {
-  background-color: black;
+  background-color: #bfc9b8;
 }
 
 

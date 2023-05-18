@@ -69,7 +69,9 @@ function App() {
         <Route exact path="/">
         <PlayerList players={players} />
         </Route>
-      </Switch>  
+      </Switch>
+      <video id="background-video" autoPlay loop muted><source src="https://i.gifer.com/DuXi.mp4" type="video/mp4"/></video>
+  
     </div>
   );
 }
